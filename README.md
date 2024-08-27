@@ -1,16 +1,23 @@
 # material-para-DAWeb_BD_5I
 tenemos link de referencia mas documentos Agosto 2024
-
--Ernesto Larrondo 5-I
+- Ernesto Larrondo 5-I
 ## Desarrollo web
 
 desarrllo web en tecnologias
--https://www.eniun.com/cursos-diseno-desarrollo-web/
+- https://www.eniun.com/cursos-diseno-desarrollo-web/
 
--code pen
--https://codepen.io/
+- code pen
+- https://codepen.io/
 
--Esta web contiene materiales curriculares (lecciones, ejercicios, exámenes, etc)
+- Esta web contiene materiales curriculares (lecciones, ejercicios, exámenes, etc)
 https://www.mclibre.org/
 
 ## Framework y lenguaje de programacion
+- paginas web de programacion
+- https://www.w3schools.com/
+- python https://www.w3schools.com/python/default.asp
+- Descargar python
+- https://www.python.org/downloads/
+  
+- programacion en linea
+- https://coddy.tech/
